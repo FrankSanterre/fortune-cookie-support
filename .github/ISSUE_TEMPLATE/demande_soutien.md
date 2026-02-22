@@ -2,6 +2,7 @@
 name: Demande de soutien
 about: Créer un ticket de soutien pour le service Fortune Cookie API
 labels: "[TICKET] "
+title Ticket
 ---
 
 ## Type de demande
