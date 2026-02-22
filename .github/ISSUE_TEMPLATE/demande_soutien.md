@@ -1,24 +1,37 @@
 ---
 name: Demande de soutien
-about: Créer un ticket pour un incident, une question ou une amélioration
-title: "[SUPPORT] "
-labels: ""
-assignees: ""
+about: Créer un ticket de soutien pour le service Fortune Cookie API
+labels: "[TICKET] "
 ---
 
 ## Type de demande
 - [ ] Incident
+- [ ] Demande de service
 - [ ] Question
 - [ ] Amélioration
 
 ---
 
-## Description du problème
-Décrire clairement la situation ou le problème rencontré.
+## Impact
+- [ ] Élevé
+- [ ] Moyen
+- [ ] Faible
 
 ---
 
-## Étapes pour reproduire (si applicable)
+## Urgence
+- [ ] Élevée
+- [ ] Moyenne
+- [ ] Faible
+
+---
+
+## Description
+Décrire clairement le problème ou la demande.
+
+---
+
+## Étapes pour reproduire
 1.
 2.
 3.
@@ -26,19 +39,14 @@ Décrire clairement la situation ou le problème rencontré.
 ---
 
 ## Résultat attendu
-Décrire ce qui devrait se produire normalement.
+Ce qui devrait normalement se produire.
 
 ---
 
 ## Résultat obtenu
-Décrire ce qui se produit réellement.
+Ce qui se produit réellement.
 
 ---
 
 ## Date et heure
-Indiquer le moment où le problème est survenu.
-
----
-
-## Informations supplémentaires
-Ajouter toute information pertinente (capture d’écran, message d’erreur, etc.).
+Indiquer quand le problème est survenu.
