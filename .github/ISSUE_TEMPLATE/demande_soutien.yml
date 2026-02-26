@@ -51,9 +51,9 @@ body:
     id: etapes_reproduction
     attributes:
       label: Étapes pour reproduire
-      description: |
-        1.
-        2.
+      placeholder: |
+        1. 
+        2. 
         3.
     validations:
       required: false
